@@ -32,4 +32,4 @@ export const getHeroeByIdAsync = (id) => {
   });
 };
 
-getHeroeByIdAsync(1).then(console.log).catch(console.warn);
+// getHeroeByIdAsync(1).then(console.log).catch(console.warn);
